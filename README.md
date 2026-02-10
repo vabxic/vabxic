@@ -2,7 +2,7 @@
 Code-minded problem solver<br>Curious about how things work under the hood<br>C/C++ enthusiast exploring cybersecurity<br>Break → Understand → Improve cycle follower<br>blah blah blah
 
 
-## So Clled Socials:
+## So Called Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vabxic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//vaibhav-singh-1969a1368) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavsingh4805@gmail.com) 
 
 # In Touch with:
