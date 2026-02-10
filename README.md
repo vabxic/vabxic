@@ -12,9 +12,6 @@ Code-minded problem solver<br>Curious about how things work under the hood<br>C/
 ![](https://nirzak-streak-stats.vercel.app/?user=vabxic&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vabxic&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vabxic&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
 ###  How bout a Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
