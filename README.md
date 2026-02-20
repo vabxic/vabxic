@@ -1,6 +1,6 @@
 # Know Me Better:
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="75" height="75" />
 </p>
 Code-minded problem solver<br>Curious about how things work under the hood<br>C/C++ enthusiast exploring cybersecurity<br>Break → Understand → Improve cycle follower<br>blah blah blah
 
