@@ -5,6 +5,7 @@
 </p>
 
 Code-minded problem solver<br>Curious about how things work under the hood<br>C/C++ enthusiast exploring cybersecurity<br>Break → Understand → Improve cycle follower<br>blah blah blah
+THE POINT IS DON'T TOUCH IT IF IT WORKS
 
 
 ## Socials:
