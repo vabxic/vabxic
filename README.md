@@ -4,8 +4,8 @@
 	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="100" height="100" />
 </p>
 
-Code-minded problem solver<br>Curious about how things work under the hood<br>C/C++ enthusiast exploring cybersecurity<br>Break → Understand → Improve cycle follower<br>blah blah blah
-THE POINT IS DON'T TOUCH IT IF IT WORKS
+Code-minded problem solver<br>Curious about how things work under the hood<br>C/C++ enthusiast exploring cybersecurity<br>Break → Understand<br>blah blah blah<br>
+If it works, I am as astonished as you are 
 
 
 ## Socials:
