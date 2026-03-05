@@ -16,12 +16,12 @@ blah blah blah<br>
 If it works, I am as astonished as you are
 
 </div>
-
 <br>
 
-
-<h2>Socials</h2>
 <div align="center">
+  
+<h2>Socials</h2>
+
 <a href="https://instagram.com/vabxic">
 <img src="icons/Instagram.svg" width="45">
 </a>
