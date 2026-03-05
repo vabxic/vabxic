@@ -114,10 +114,6 @@ If it works, I am as astonished as you are
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vabxic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-
-<br>
-
 <img src="https://github.com/vabxic/vabxic/blob/output/github-snake-dark.svg">
 
 </div>
