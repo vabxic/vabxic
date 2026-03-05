@@ -109,9 +109,6 @@ If it works, I am as astonished as you are
 
 <h2>GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vabxic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-
-<br>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=vabxic&theme=tokyonight&hide_border=true">
 
