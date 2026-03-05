@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=vabxic&label=Profile%20views&color=0e75b6&style=flat" alt="vabxic" />
 </p>
 
-<b style="font-size:50px;">Know Me Better</b>
+<b style="font-size:85px;">Know Me Better</b>
 
 <p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="100" height="100"/>
@@ -35,7 +35,7 @@ If it works, I am as astonished as you are
 
 <div align="center">
 
-<b style="font-size:40px;">Tech Stack</b>
+<b style="font-size:70px;">Tech Stack</b>
 
 <br><br>
 
