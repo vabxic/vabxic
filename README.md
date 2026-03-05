@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vabxic&label=Profile%20views&color=0e75b6&style=flat" alt="vabxic" />
+<img src="https://komarev.com/ghpvc/?username=vabxic&label=Profile%20views&color=0e75b6&style=flat" alt="vabxic"/>
 </p>
 
 <h1 align="center">Know Me Better</h1>
@@ -35,7 +35,7 @@ If it works, I am as astonished as you are
 
 <h2 align="center">Tech Stack</h2>
 
-### Front End
+<h3 align="center">Front End</h3>
 
 <p align="center">
 <img src="icons/HTML.svg" height="40"/>
@@ -47,17 +47,17 @@ If it works, I am as astonished as you are
 <img src="icons/TailwindCSS-Dark.svg" height="40"/>
 </p>
 
-### Back End
+<h3 align="center">Back End</h3>
 
 <p align="center">
 <img src="icons/NodeJS-Dark.svg" height="40"/>
 <img src="icons/ExpressJS-Dark.svg" height="40"/>
 <img src="icons/Django.svg" height="40"/>
-<img src="Flask-Dark.svg" height="40"/>
+<img src="icons/Flask-Dark.svg" height="40"/>
 <img src="icons/FastAPI.svg" height="40"/>
 </p>
 
-### Android Development
+<h3 align="center">Android Development</h3>
 
 <p align="center">
 <img src="icons/Java-Dark.svg" height="40"/>
@@ -65,7 +65,7 @@ If it works, I am as astonished as you are
 <img src="icons/Flutter-Dark.svg" height="40"/>
 </p>
 
-### Database
+<h3 align="center">Database</h3>
 
 <p align="center">
 <img src="icons/MongoDB.svg" height="40"/>
@@ -75,7 +75,7 @@ If it works, I am as astonished as you are
 <img src="icons/Supabase-Dark.svg" height="40"/>
 </p>
 
-### Deployment
+<h3 align="center">Deployment</h3>
 
 <p align="center">
 <img src="icons/Heroku.svg" height="40"/>
@@ -83,7 +83,7 @@ If it works, I am as astonished as you are
 <img src="icons/Firebase-Dark.svg" height="40"/>
 </p>
 
-### Other
+<h3 align="center">Other</h3>
 
 <p align="center">
 <img src="icons/C.svg" height="40"/>
