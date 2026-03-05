@@ -1,49 +1,116 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vabxic&label=Profile%20views&color=0e75b6&style=flat" alt="vabxic" /> </p>
-
-# Know Me Better:
-
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="100" height="100" />
+<img src="https://komarev.com/ghpvc/?username=vabxic&label=Profile%20views&color=0e75b6&style=flat" alt="vabxic" />
 </p>
 
-Code-minded problem solver<br>Curious about how things work under the hood<br>blah blah blah<br>
-If it works, I am as astonished as you are 
+<h1 align="center">Know Me Better</h1>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="100" height="100"/>
+</p>
 
-## Socials:
+<p align="center">
+Code-minded problem solver<br>
+Curious about how things work under the hood<br>
+blah blah blah<br>
+If it works, I am as astonished as you are
+</p>
 
-[![Instagram](icons/Instagram.svg)](https://instagram.com/vabxic) [![LinkedIn](icons/LinkedIn.svg)](https://linkedin.com/in//vaibhav-singh-1969a1368) [![Email](icons/Gmail-Light.svg)](mailto:vaibhavsingh4805@gmail.com)
+---
 
-# Tech stack:
-**Front End:**
+<h2 align="center">Socials</h2>
 
-![HTML](icons/HTML.svg) ![CSS](icons/CSS.svg) ![JavaScript](icons/JavaScript.svg) ![React](icons/React-Dark.svg) ![React Native](icons/React-Dark.svg) ![Vite](icons/Vite-Dark.svg) ![TailwindCSS](icons/TailwindCSS-Dark.svg)</p>
+<p align="center">
+<a href="https://instagram.com/vabxic">
+<img src="icons/Instagram.svg" width="40"/>
+</a>
+<a href="https://linkedin.com/in//vaibhav-singh-1969a1368">
+<img src="icons/LinkedIn.svg" width="40"/>
+</a>
+<a href="mailto:vaibhavsingh4805@gmail.com">
+<img src="icons/Gmail-Light.svg" width="40"/>
+</a>
+</p>
 
-**Back End:** 
+---
 
-![NodeJS](icons/NodeJS-Dark.svg) ![ExpressJS](icons/ExpressJS-Dark.svg) ![Django](icons/Django.svg) ![Flask](Flask-Dark.svg) ![FastAPI](icons/FastAPI.svg)</p>
+<h2 align="center">Tech Stack</h2>
 
-**Android Development:** 
+### Front End
 
-![Java](icons/Java-Dark.svg) ![Kotlin](icons/Kotlin-Dark.svg) ![Flutter](icons/Flutter-Dark.svg)</p>
+<p align="center">
+<img src="icons/HTML.svg" height="40"/>
+<img src="icons/CSS.svg" height="40"/>
+<img src="icons/JavaScript.svg" height="40"/>
+<img src="icons/React-Dark.svg" height="40"/>
+<img src="icons/React-Dark.svg" height="40"/>
+<img src="icons/Vite-Dark.svg" height="40"/>
+<img src="icons/TailwindCSS-Dark.svg" height="40"/>
+</p>
 
-**Database:** 
+### Back End
 
-![MongoDB](icons/MongoDB.svg) ![MySQL](icons/MySQL-Dark.svg) ![PostgreSQL](icons/PostgreSQL-Dark.svg) ![SQLite](icons/SQLite.svg) ![Supabase](icons/Supabase-Dark.svg)</p>
+<p align="center">
+<img src="icons/NodeJS-Dark.svg" height="40"/>
+<img src="icons/ExpressJS-Dark.svg" height="40"/>
+<img src="icons/Django.svg" height="40"/>
+<img src="Flask-Dark.svg" height="40"/>
+<img src="icons/FastAPI.svg" height="40"/>
+</p>
 
-**Deployment:**
+### Android Development
 
- ![Heroku](icons/Heroku.svg) ![Vercel](icons/Vercel-Dark.svg) ![Firebase](icons/Firebase-Dark.svg)</p>
+<p align="center">
+<img src="icons/Java-Dark.svg" height="40"/>
+<img src="icons/Kotlin-Dark.svg" height="40"/>
+<img src="icons/Flutter-Dark.svg" height="40"/>
+</p>
 
-**Other:** 
+### Database
 
-![C](icons/C.svg) ![C++](icons/CPP.svg) ![Git](icons/Git.svg) ![Docker](icons/Docker.svg) ![AWS](icons/AWS-Dark.svg) ![OpenCV](icons/OpenCV-Dark.svg) ![CMake](icons/CMake-Dark.svg)</p>
- 
+<p align="center">
+<img src="icons/MongoDB.svg" height="40"/>
+<img src="icons/MySQL-Dark.svg" height="40"/>
+<img src="icons/PostgreSQL-Dark.svg" height="40"/>
+<img src="icons/SQLite.svg" height="40"/>
+<img src="icons/Supabase-Dark.svg" height="40"/>
+</p>
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vabxic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vabxic&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vabxic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### Deployment
 
-![snake gif](https://github.com/vabxic/vabxic/blob/output/github-snake-dark.svg)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="icons/Heroku.svg" height="40"/>
+<img src="icons/Vercel-Dark.svg" height="40"/>
+<img src="icons/Firebase-Dark.svg" height="40"/>
+</p>
+
+### Other
+
+<p align="center">
+<img src="icons/C.svg" height="40"/>
+<img src="icons/CPP.svg" height="40"/>
+<img src="icons/Git.svg" height="40"/>
+<img src="icons/Docker.svg" height="40"/>
+<img src="icons/AWS-Dark.svg" height="40"/>
+<img src="icons/OpenCV-Dark.svg" height="40"/>
+<img src="icons/CMake-Dark.svg" height="40"/>
+</p>
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vabxic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=vabxic&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vabxic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/vabxic/vabxic/blob/output/github-snake-dark.svg"/>
+</p>
