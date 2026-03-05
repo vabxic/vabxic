@@ -1,10 +1,10 @@
 <div align="center">
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=vabxic&label=Profile%20views&color=0e75b6&style=flat" alt="vabxic" />
+<img src="https://komarev.com/ghpvc/?username=vabxic&label=Profile%20views&color=0e75b6&style=flat" alt="vabxic"/>
 </p>
 
-<b style="font-size:185px;">Know Me Better</b>
+<h1 align="center">Know Me Better</h1>
 
 <p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="100" height="100"/>
@@ -17,96 +17,112 @@ If it works, I am as astonished as you are
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
-<b style="font-size:40px;">Socials</b>
+<h2>Socials</h2>
 
-<br><br>
+<a href="https://instagram.com/vabxic">
+<img src="icons/Instagram.svg" width="45">
+</a>
 
-[![Instagram](icons/Instagram.svg)](https://instagram.com/vabxic)
-[![LinkedIn](icons/LinkedIn.svg)](https://linkedin.com/in//vaibhav-singh-1969a1368)
-[![Email](icons/Gmail-Light.svg)](mailto:vaibhavsingh4805@gmail.com)
+<a href="https://linkedin.com/in//vaibhav-singh-1969a1368">
+<img src="icons/LinkedIn.svg" width="45">
+</a>
+
+<a href="mailto:vaibhavsingh4805@gmail.com">
+<img src="icons/Gmail-Light.svg" width="45">
+</a>
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
-<b style="font-size:70px;">Tech Stack</b>
+<h2>Tech Stack</h2>
 
-<br><br>
+<h3>Front End</h3>
 
-<b>Front End</b>
-
-<br>
-
-![HTML](icons/HTML.svg) ![CSS](icons/CSS.svg) ![JavaScript](icons/JavaScript.svg) ![React](icons/React-Dark.svg) ![React Native](icons/React-Dark.svg) ![Vite](icons/Vite-Dark.svg) ![TailwindCSS](icons/TailwindCSS-Dark.svg)
-
-<br><br>
-
-<b>Back End</b>
+<img src="icons/HTML.svg" height="45">
+<img src="icons/CSS.svg" height="45">
+<img src="icons/JavaScript.svg" height="45">
+<img src="icons/React-Dark.svg" height="45">
+<img src="icons/React-Dark.svg" height="45">
+<img src="icons/Vite-Dark.svg" height="45">
+<img src="icons/TailwindCSS-Dark.svg" height="45">
 
 <br>
 
-![NodeJS](icons/NodeJS-Dark.svg) ![ExpressJS](icons/ExpressJS-Dark.svg) ![Django](icons/Django.svg) ![Flask](Flask-Dark.svg) ![FastAPI](icons/FastAPI.svg)
+<h3>Back End</h3>
 
-<br><br>
-
-<b>Android Development</b>
-
-<br>
-
-![Java](icons/Java-Dark.svg) ![Kotlin](icons/Kotlin-Dark.svg) ![Flutter](icons/Flutter-Dark.svg)
-
-<br><br>
-
-<b>Database</b>
+<img src="icons/NodeJS-Dark.svg" height="45">
+<img src="icons/ExpressJS-Dark.svg" height="45">
+<img src="icons/Django.svg" height="45">
+<img src="Flask-Dark.svg" height="45">
+<img src="icons/FastAPI.svg" height="45">
 
 <br>
 
-![MongoDB](icons/MongoDB.svg) ![MySQL](icons/MySQL-Dark.svg) ![PostgreSQL](icons/PostgreSQL-Dark.svg) ![SQLite](icons/SQLite.svg) ![Supabase](icons/Supabase-Dark.svg)
+<h3>Android Development</h3>
 
-<br><br>
-
-<b>Deployment</b>
-
-<br>
-
-![Heroku](icons/Heroku.svg) ![Vercel](icons/Vercel-Dark.svg) ![Firebase](icons/Firebase-Dark.svg)
-
-<br><br>
-
-<b>Other</b>
+<img src="icons/Java-Dark.svg" height="45">
+<img src="icons/Kotlin-Dark.svg" height="45">
+<img src="icons/Flutter-Dark.svg" height="45">
 
 <br>
 
-![C](icons/C.svg) ![C++](icons/CPP.svg) ![Git](icons/Git.svg) ![Docker](icons/Docker.svg) ![AWS](icons/AWS-Dark.svg) ![OpenCV](icons/OpenCV-Dark.svg) ![CMake](icons/CMake-Dark.svg)
+<h3>Database</h3>
+
+<img src="icons/MongoDB.svg" height="45">
+<img src="icons/MySQL-Dark.svg" height="45">
+<img src="icons/PostgreSQL-Dark.svg" height="45">
+<img src="icons/SQLite.svg" height="45">
+<img src="icons/Supabase-Dark.svg" height="45">
+
+<br>
+
+<h3>Deployment</h3>
+
+<img src="icons/Heroku.svg" height="45">
+<img src="icons/Vercel-Dark.svg" height="45">
+<img src="icons/Firebase-Dark.svg" height="45">
+
+<br>
+
+<h3>Other</h3>
+
+<img src="icons/C.svg" height="45">
+<img src="icons/CPP.svg" height="45">
+<img src="icons/Git.svg" height="45">
+<img src="icons/Docker.svg" height="45">
+<img src="icons/AWS-Dark.svg" height="45">
+<img src="icons/OpenCV-Dark.svg" height="45">
+<img src="icons/CMake-Dark.svg" height="45">
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
-<b style="font-size:40px;">GitHub Stats</b>
+<h2>GitHub Stats</h2>
 
-<br><br>
-
-![](https://github-readme-stats.vercel.app/api?username=vabxic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=vabxic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
 <br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=vabxic&theme=tokyonight&hide_border=true)
+<img src="https://nirzak-streak-stats.vercel.app/?user=vabxic&theme=tokyonight&hide_border=true">
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vabxic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vabxic&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
 <br>
 
-![snake gif](https://github.com/vabxic/vabxic/blob/output/github-snake-dark.svg)
+<img src="https://github.com/vabxic/vabxic/blob/output/github-snake-dark.svg">
 
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
