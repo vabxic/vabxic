@@ -78,7 +78,7 @@ jobs:
 
 
 
-      # Step 3: Deploy the generated files to the 'output' branch
+      # Step 3: Deploy the generated files to the 'output' branc
 
       - name: Deploy to Output Branch
 
