@@ -6,13 +6,6 @@
 
 <h1 align="center">Know Me Better</h1>
 
-<p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="100" height="100"/>
-</p>
-
-Code-minded problem solver<br>
-Curious about how things work under the hood<br>
-blah blah blah<br>
 If it works, I am as astonished as you are
 
 </div>
