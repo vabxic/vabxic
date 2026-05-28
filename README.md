@@ -9,7 +9,6 @@
 <h1 align="center">Know Me Better</h1>
 
 If it works, I am as astonished as you are
-
 </div>
 <br>
 
