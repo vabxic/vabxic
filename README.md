@@ -16,10 +16,6 @@ If it works, I am as astonished as you are
   
 <h2>Socials</h2>
 
-<a href="https://instagram.com/vabxic">
-<img src="icons/Instagram.svg" width="45">
-</a>
-
 <a href="https://linkedin.com/in//vaibhav-singh-1969a1368">
 <img src="icons/LinkedIn.svg" width="45">
 </a>
