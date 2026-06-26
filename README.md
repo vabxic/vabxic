@@ -1,10 +1,4 @@
-<div align="center">
-  
-  <img src="./assets/header-animation.svg" alt="Redoyanul Haque - AI Developer" width="100%"/>
-  
-  <br/>
 
-<div align="center">
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=vabxic&label=Profile%20views&color=0e75b6&style=flat" alt="vabxic"/>
