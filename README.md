@@ -1,3 +1,8 @@
+<div align="center">
+  
+  <img src="./assets/header-animation.svg" alt="Redoyanul Haque - AI Developer" width="100%"/>
+  
+  <br/>
 
 <div align="center">
 
