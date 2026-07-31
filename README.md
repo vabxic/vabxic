@@ -104,19 +104,20 @@ If it works, I am as astonished as you are
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=vabxic&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vaibhav Singh's GitHub Trophies" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 <br>
 <div align="center">
 
-<img src="./assets/github-analytics.svg" width="100%" alt="GitHub analytics snapshot"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vabxic&theme=tokyo-night&bg_color=1e1e2e&color=89B4FA&line=CBA6F7&point=ffffff&hide_border=true&area=true" width="100%" />
 
 </div>
 
 <img src="./assets/section-divider.svg" width="100%" alt="Section divider"/>
+<br>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
 
 <br>
 
