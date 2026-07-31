@@ -15,6 +15,7 @@ If it works, I am as astonished as you are
 <h2>Socials</h2>
 
 <a href="https://linkedin.com/in//vaibhav-singh-1969a1368">
+  <br>
 <img src="icons/LinkedIn.svg" width="45">
 </a>
 
@@ -105,9 +106,7 @@ If it works, I am as astonished as you are
   <img src="https://trophy.ryglcloud.net/?username=vabxic&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vaibhav Singh's GitHub Trophies" />
 </p>
 <br>
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vabxic&theme=dark&bg_color=1e1e2e&color=89B4FA&line=CBA6F7&point=ffffff&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vabxic&theme=dark&bg_color=151515&color=ffffff&line=FB8C00&point=ffffff&hide_border=true&area=true" width="100%" />
 
 </div>
 <br>
