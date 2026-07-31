@@ -107,12 +107,9 @@ If it works, I am as astonished as you are
 <br>
 <div align="center">
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vabxic&theme=tokyo-night&bg_color=1e1e2e&color=89B4FA&line=CBA6F7&point=ffffff&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vabxic&theme=dark&bg_color=1e1e2e&color=89B4FA&line=CBA6F7&point=ffffff&hide_border=true&area=true" width="100%" />
 
 </div>
-
-<img src="./assets/section-divider.svg" width="100%" alt="Section divider"/>
 <br>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
