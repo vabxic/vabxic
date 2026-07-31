@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 <h1 align="center">Know Me Better</h1>
-
+<br>
 If it works, I am as astonished as you are
 </div>
 <br>
@@ -107,7 +107,16 @@ If it works, I am as astonished as you are
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
+<br>
+<div align="center">
 
+<img src="./assets/github-analytics.svg" width="100%" alt="GitHub analytics snapshot"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vabxic&theme=tokyo-night&bg_color=1e1e2e&color=89B4FA&line=CBA6F7&point=ffffff&hide_border=true&area=true" width="100%" />
+
+</div>
+
+<img src="./assets/section-divider.svg" width="100%" alt="Section divider"/>
 
 <br>
 
